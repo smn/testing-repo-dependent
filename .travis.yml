@@ -1,3 +1,5 @@
 language: python
 notifications:
   webhooks: http://ef017683.ngrok.io/travis/
+script:
+  - env
